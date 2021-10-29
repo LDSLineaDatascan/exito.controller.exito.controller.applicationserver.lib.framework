@@ -1,0 +1,9 @@
+com\lds\exito\darchitecture\framework\domain\ProductRule.class
+com\lds\exito\darchitecture\framework\domain\Component.class
+com\lds\exito\darchitecture\framework\domain\ParametersConfig.class
+com\lds\exito\darchitecture\framework\domain\ComponentProperty.class
+com\lds\exito\darchitecture\framework\domain\helper\ComponentHelper.class
+com\lds\exito\darchitecture\framework\domain\ProductFlow.class
+com\lds\exito\darchitecture\framework\domain\CommunicationProperty.class
+com\lds\exito\darchitecture\framework\domain\Product.class
+com\lds\exito\darchitecture\framework\domain\ProductOperations.class
